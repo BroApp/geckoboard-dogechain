@@ -1,0 +1,8 @@
+{
+  "name": "geckoboard-dogechain",
+  "version": "1.0.0",
+  "description": "Push DogeChain address balances to Geckoboard.",
+  "dependencies": {
+    "request": "^2.34.0"
+  }
+}
